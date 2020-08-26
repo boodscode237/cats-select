@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boodscode237/cats-select.git/static/css/main.54696ccd.chunk.css",
+    "main.js": "/boodscode237/cats-select.git/static/js/main.eb91a703.chunk.js",
+    "main.js.map": "/boodscode237/cats-select.git/static/js/main.eb91a703.chunk.js.map",
+    "runtime-main.js": "/boodscode237/cats-select.git/static/js/runtime-main.0afaafae.js",
+    "runtime-main.js.map": "/boodscode237/cats-select.git/static/js/runtime-main.0afaafae.js.map",
+    "static/js/2.c4f7bd68.chunk.js": "/boodscode237/cats-select.git/static/js/2.c4f7bd68.chunk.js",
+    "static/js/2.c4f7bd68.chunk.js.map": "/boodscode237/cats-select.git/static/js/2.c4f7bd68.chunk.js.map",
+    "index.html": "/boodscode237/cats-select.git/index.html",
+    "precache-manifest.29fb85a6a3174126c066613dedce5354.js": "/boodscode237/cats-select.git/precache-manifest.29fb85a6a3174126c066613dedce5354.js",
+    "service-worker.js": "/boodscode237/cats-select.git/service-worker.js",
+    "static/css/main.54696ccd.chunk.css.map": "/boodscode237/cats-select.git/static/css/main.54696ccd.chunk.css.map",
+    "static/js/2.c4f7bd68.chunk.js.LICENSE.txt": "/boodscode237/cats-select.git/static/js/2.c4f7bd68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0afaafae.js",
+    "static/js/2.c4f7bd68.chunk.js",
+    "static/css/main.54696ccd.chunk.css",
+    "static/js/main.eb91a703.chunk.js"
+  ]
+}
